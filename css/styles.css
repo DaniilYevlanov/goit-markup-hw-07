@@ -45,10 +45,7 @@ ul {
    padding: 0;
 }
 
-a {
-   
-   color: inherit;
-}
+
 
 /* Components */
 
@@ -87,8 +84,6 @@ a {
    clip: rect(0 0 0 0);
    overflow: hidden;
 }
-
-/* Styles header */
 
 /* HEDER */
 .header {
